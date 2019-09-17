@@ -120,6 +120,10 @@ h6 {
   }
 }
 
+.masthead h2, .masthead h5 {
+  font-weight: normal;
+}
+
 /* Side Menu */
 #sidebar-wrapper {
   position: fixed;
