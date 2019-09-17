@@ -21,11 +21,11 @@ body {
 .content-section {
   padding-top: 7.5rem;
   padding-bottom: 7.5rem;
-  background: #212529;
+  background: #343a40;
 }
 
 #portfolio {
-  background: #343a40;
+  background: #212529;
 }
 
 .content-section-heading h2 {
